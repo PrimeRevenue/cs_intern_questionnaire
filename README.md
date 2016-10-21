@@ -29,7 +29,7 @@ Please answer the following questions, in your own words, to the best of your ab
   10. ~~Does P = NP?~~
 
 ## Coding Micro-Challenges
-Please submit solutions to the following challenges in the language of your choice (_preferred_ languages include: C++, Java, JavaScript, Ruby, Python, Scala):
+Please submit solutions to the following challenges in the language(s) of your choice (_preferred_ languages include: C++, Java, JavaScript, Ruby, PHP, Python, Scala):
 
   1. Write a function that takes in a positive integer (hereby referred to as N) and returns the first N _odd integers_ as an array (or some other iterable object). Ex:
   ```
