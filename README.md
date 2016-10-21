@@ -31,7 +31,11 @@ Please answer the following questions, in your own words, to the best of your ab
 ## Coding Micro-Challenges
 Please submit solutions to the following challenges in the language of your choice (_preferred_ languages include: C++, Java, JavaScript, Ruby, Python, Scala):
 
-  1. Write a function that takes in a positive integer (hereby referred to as N) and returns the first N _odd integers_ as an array (or some other iterable object).
+  1. Write a function that takes in a positive integer (hereby referred to as N) and returns the first N _odd integers_ as an array (or some other iterable object). Ex:
+  ```
+    odds(2) => [1, 3]
+    odds(4) => [1, 3, 5, 7]
+  ```
 
   2. Write a function that takes a positive integer (N) as an exponent, which returns the base-10 sum of the base-10 _digits_ of 2^N. Ex:
   ```
