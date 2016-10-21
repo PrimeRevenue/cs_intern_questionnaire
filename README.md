@@ -5,6 +5,8 @@ This questionnaire is intended to help us pre-screen applicants to our software 
 
 Your submission should be a single gist, but you may have multiple files within the submission if desired (e.g: one file per coding challenge, and one file with the answers to all the questions).
 
+Please don't spend more than one or two evenings to complete this.
+
 ## Technical Questions
 Please answer the following questions, in your own words, to the best of your ability, (as part of the gist) with a few full and complete sentences per response:
 
