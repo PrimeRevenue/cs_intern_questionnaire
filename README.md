@@ -6,7 +6,7 @@ This questionnaire is intended to help us pre-screen applicants to our software 
 Your submission should be a single gist, but you may have multiple files within the submission if desired (e.g: one file per coding challenge, and one file with the answers to all the questions).
 
 ## Technical Questions
-Please answer the following questions in your own words (as part of the gist) with full and complete sentences (please only a a few sentences per question):
+Please answer the following questions in your own words (as part of the gist) with full and complete sentences (please only a few sentences per question):
 
   1. In HTML, what are the differences between a `<div>` and a `<span>`?
 
